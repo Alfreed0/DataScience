@@ -1,0 +1,7 @@
+#Heavy files
+/Data/sales_2017_enero.csv
+/Data/sales_2017_febrero.csv
+/Data/sales_2017_marzo.csv
+
+#System Files
+.DS_Store
